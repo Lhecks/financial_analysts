@@ -1,1 +1,1 @@
-Coming Soon
+This project analyzes financial datasets using Python in [`main.ipynb`](main.ipynb). It includes data loading, preprocessing, exploratory data analysis, and visualization. Key metrics and trends are identified to support financial decision-making. The notebook demonstrates practical use of pandas, matplotlib, and other data science libraries for financial analysis.
