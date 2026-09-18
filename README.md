@@ -188,20 +188,6 @@ for idx, yr in enumerate(sorted(years_unique)):
     axes[idx].set_title(f'Discount Band Distribution\nYear: {yr}')
 ```
 
-## How to Use
-
-Open the notebook in Jupyter or VS Code:
-
-```bash
-jupyter notebook main.ipynb
-```
-
-Then run the cells sequentially to:
-
-- load the dataset
-- process the financial data
-- generate charts and summary tables
-- review the business insights
 
 ## Notes
 
